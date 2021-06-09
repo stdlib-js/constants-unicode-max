@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-unicode-max",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Maximum Unicode code point.",
   "license": "Apache-2.0",
   "author": {
