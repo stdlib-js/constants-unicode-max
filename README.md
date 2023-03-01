@@ -96,7 +96,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/unicode/max-bmp`][@stdlib/constants/unicode/max-bmp]</span><span class="delimiter">: </span><span class="description">maximum Unicode code point in the Basic Multilingual Plane (BMP).</span>
+-   <span class="package-name">[`@stdlib/constants-unicode/max-bmp`][@stdlib/constants/unicode/max-bmp]</span><span class="delimiter">: </span><span class="description">maximum Unicode code point in the Basic Multilingual Plane (BMP).</span>
 
 </section>
 
