@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import UNICODE_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode-max@esm/index.mjs';
+import UNICODE_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode-max@v0.2.3-esm/index.mjs';
 ```
 
 #### UNICODE_MAX
@@ -73,7 +73,7 @@ var bool = ( UNICODE_MAX === 1114111 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@esm/index.mjs';
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@esm/index.mjs';
-import UNICODE_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode-max@esm/index.mjs';
+import UNICODE_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode-max@v0.2.3-esm/index.mjs';
 
 var x;
 var i;
